@@ -1,1 +1,1 @@
-print("Sziasztok!")
+print("Sziasztok! Ez egy példa kód.")
