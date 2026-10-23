@@ -1,0 +1,1 @@
+print("Sziasztok! Ez egy példa kód.")
